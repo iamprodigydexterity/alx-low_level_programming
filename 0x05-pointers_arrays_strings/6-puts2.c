@@ -5,6 +5,7 @@
  *
  * Return: void
  */
+void puts2(char *str)
 {
 	int i;
 
