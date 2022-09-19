@@ -4,7 +4,7 @@
  *
  * @str: string
  */
-void puts_half(char *str)
+void print_half(char *str)
 {
 	int index, half;
 
@@ -19,7 +19,7 @@ void puts_half(char *str)
 
 	while (half < index)
 	{
-		_putchar(str[half]);
+		_putchar(str / 2);
 		half++;
 	}
 	_putchar('\n');
