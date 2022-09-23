@@ -3,7 +3,7 @@
 /**
  * print_number - prints whole numbers
  * @n: parameter
- * Return: integer
+ * Return: Integer
  */
 
 void print_number(int n)
