@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main - this is a function to print its name
+ * main - this program prints its name
  *
  * @argc: number of arguments
  * @argv: string of arguments
